@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vishwaspw">
-    <img src="https://komarev.com/ghpvc/?username=vishwaspw&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+  <a href="https://github.com/harshithbn63">
+    <img src="https://komarev.com/ghpvc/?username=harshithbn63&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
   </a>
-  <a href="mailto:vishwasramesh939@gmail.com">
+  <a href="mailto:harshithbn454@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="gmail badge"/>
   </a>
 </p>
@@ -55,9 +55,9 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwaspw&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshithbn63&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaspw&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithbn63&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
 
